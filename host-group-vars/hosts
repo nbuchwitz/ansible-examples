@@ -1,0 +1,8 @@
+jane ansible_connection=local
+joe ansible_connection=local
+jack ansible_connection=local
+joane ansible_connection=local
+
+[finance]
+jane
+jack
